@@ -1,5 +1,5 @@
 ### Hi there 👋
-##My name is Ankit
+My name is Ankit
 - 🔭 I’m currently working on project based on mern stack.
 - 🌱 I’m currently learning advanced JavaScript
 - 💬 Ask me about related JavaScript
